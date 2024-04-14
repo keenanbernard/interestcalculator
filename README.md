@@ -39,7 +39,7 @@ To run the Interest Calculator App locally, follow these steps:
 
 ## Deployment
 
-The Interest Calculator App is deployed using Firebase for hosting. It can be accessed at [TBD].
+The Interest Calculator App is deployed using Firebase for hosting. It can be accessed at [https://interest-wise.web.app].
 
 ## License
 
