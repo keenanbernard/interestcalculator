@@ -1,19 +1,19 @@
 {
-  "short_name": "React App",
+  "short_name": "Interest Calculator",
   "name": "Create React App Sample",
   "icons": [
     {
       "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
+      "sizes": "https://ik.imagekit.io/Bernard98/Interest%20Calculator%20Assets/apple-touch-icon.png?updatedAt=1713121863780",
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
+      "src": "https://ik.imagekit.io/Bernard98/Interest%20Calculator%20Assets/android-chrome-192x192.png?updatedAt=1713121863729",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
+      "src": "https://ik.imagekit.io/Bernard98/Interest%20Calculator%20Assets/android-chrome-512x512.png?updatedAt=1713121864233",
       "type": "image/png",
       "sizes": "512x512"
     }
